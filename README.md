@@ -10,11 +10,7 @@
 
 
 ## About
-Termo is a simple, fast AU agent in your terminal
-
-<div align="center">
-  <img src="assets/expirience.png" alt="auth" style="border-radius: 9px;"/>
-</div>
+Termo is a simple, fast Ai agent in your terminal
 
 ## Fast Start
 
