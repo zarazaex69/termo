@@ -10,7 +10,7 @@
 
 
 ## About
-Termo is a simple, fast Ai agent in your terminal
+Termo is a simple, fast agent in your terminal
 
 ## Fast Start
 
