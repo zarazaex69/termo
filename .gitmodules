@@ -1,3 +1,6 @@
 [submodule "qwen.js"]
 	path = qwen.js
 	url = https://github.com/zarazaex69/qwen.js
+[submodule "markdownly.js"]
+	path = markdownly.js
+	url = https://github.com/zarazaex69/markdownly.js
