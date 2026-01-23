@@ -5,7 +5,7 @@
     "": {
       "name": "termo",
       "dependencies": {
-        "qwen.js": "^0.1.5",
+        "qwen.js": "^0.1.7",
       },
       "devDependencies": {
         "@types/bun": "latest",
@@ -22,7 +22,7 @@
 
     "bun-types": ["bun-types@1.3.5", "", { "dependencies": { "@types/node": "*" } }, "sha512-inmAYe2PFLs0SUbFOWSVD24sg1jFlMPxOjOSSCYqUgn4Hsc3rDc7dFvfVYjFPNHtov6kgUeulV4SxbuIV/stPw=="],
 
-    "qwen.js": ["qwen.js@0.1.5", "", {}, "sha512-5RVbEqNl+9vWksU8dX5DkSW/DNV51jUn5wzII8Loc8N7J2Ubt4A3yRklHy+zlCmdH21M9TKdkA4yQ8OtbXyovA=="],
+    "qwen.js": ["qwen.js@0.1.7", "", {}, "sha512-t7yr+8NXcw/uLZP+t3QK3lCELdHYtqiBZjZTwQGeV6gNaKqJkNTtQGSePoZW+TDhDUUzLYIrGl6vjpuBf7LQHA=="],
 
     "typescript": ["typescript@5.9.3", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw=="],
 

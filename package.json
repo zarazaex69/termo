@@ -10,6 +10,6 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "qwen.js": "^0.1.5"
+    "qwen.js": "^0.1.7"
   }
 }
